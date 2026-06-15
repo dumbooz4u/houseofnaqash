@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+
+# build / deploy artifacts
+dist/
+house-of-naqash-site.zip
+
+# local tooling
+.claude/
+
+# admin temp writes
+data/*.tmp

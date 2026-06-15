@@ -1,0 +1,1554 @@
+{
+ "collections": [
+  {
+   "slug": "cushions",
+   "label": "Cushions",
+   "grid": "square",
+   "meta": "Hand-embroidered cushion",
+   "subs": [
+    {
+     "slug": "silk",
+     "label": "Silk",
+     "meta": "Silk · Hand embroidered"
+    },
+    {
+     "slug": "wool",
+     "label": "Woollen",
+     "meta": "Wool · Crewel work"
+    }
+   ]
+  },
+  {
+   "slug": "fabrics",
+   "label": "Fabrics",
+   "grid": "tall",
+   "meta": "Crewel hand-embroidered cotton",
+   "subs": []
+  },
+  {
+   "slug": "rugs",
+   "label": "Rugs",
+   "grid": "rug",
+   "meta": "Chain stitch rug",
+   "subs": []
+  },
+  {
+   "slug": "throws",
+   "label": "Throws",
+   "grid": "tall",
+   "meta": "Throws & textiles",
+   "subs": []
+  }
+ ],
+ "items": [
+  {
+   "id": "cushions-abstract-face",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Abstract Face",
+   "meta": "Silk · Art series",
+   "desc": "A handmade cushion cover with a bold portrait-inspired composition and expressive abstract detailing. Its art-led design adds strong personality and a gallery-like accent to modern interiors.",
+   "images": [
+    "abstract-face-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-abstract-face-handmade-art-cushion-cover-ii",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Abstract Face Handmade Art Cushion Cover II",
+   "meta": "Cushion cover",
+   "desc": "A handmade cushion cover with a bold portrait-inspired composition and expressive abstract detailing. Its art-led design adds strong personality and a gallery-like accent to modern interiors.",
+   "images": [
+    "abstract-face-handmade-art-cushion-cover-variant.jpg"
+   ]
+  },
+  {
+   "id": "cushions-abstract-ribbon",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Abstract Ribbon",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade cushion cover with a flowing abstract composition and rich decorative colourwork. Its modern art influence makes it ideal for layered contemporary styling.",
+   "images": [
+    "abstract-ribbon-handmade-modern-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-black-diamond",
+   "collection": "cushions",
+   "cat": "wool",
+   "title": "Black Diamond",
+   "meta": "Wool · Crewel work",
+   "desc": "A handmade cushion cover with a structured geometric pattern and a crisp decorative rhythm. Its balanced motif makes it a versatile accent for both modern and classic interiors.",
+   "images": [
+    "black-diamond-handmade-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-blue-cat-family",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Blue Cat Family",
+   "meta": "Silk · Art series",
+   "desc": "A handmade cushion cover featuring an expressive cat-inspired artwork with bold colour, stitched detail, and a playful decorative character. It is ideal for artistic, eclectic, and statement interiors.",
+   "images": [
+    "blue-cat-family-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-blue-maze",
+   "collection": "cushions",
+   "cat": "wool",
+   "title": "Blue Maze",
+   "meta": "Wool · Crewel work",
+   "desc": "A handmade cushion cover with a structured geometric pattern and a crisp decorative rhythm. Its balanced motif makes it a versatile accent for both modern and classic interiors.",
+   "images": [
+    "blue-maze-handmade-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-cat-trio",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Cat Trio",
+   "meta": "Silk · Art series",
+   "desc": "A handmade cushion cover featuring an expressive cat-inspired artwork with bold colour, stitched detail, and a playful decorative character. It is ideal for artistic, eclectic, and statement interiors.",
+   "images": [
+    "cat-trio-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-cosmic-rings",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Cosmic Rings",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade cushion cover with a richly decorative surface and distinctive stitched detailing. Its crafted finish makes it well suited to statement styling, layered seating, and collected interiors.",
+   "images": [
+    "cosmic-rings-handmade-modern-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-cubist-mask",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Cubist Mask",
+   "meta": "Silk · Art series",
+   "desc": "A handmade cushion cover with a bold portrait-inspired composition and expressive abstract detailing. Its art-led design adds strong personality and a gallery-like accent to modern interiors.",
+   "images": [
+    "cubist-mask-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-cubist-portrait",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Cubist Portrait",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade cushion cover with a bold portrait-inspired composition and expressive abstract detailing. Its art-led design adds strong personality and a gallery-like accent to modern interiors.",
+   "images": [
+    "cubist-portrait-handmade-modern-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-egyptian-portrait",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Egyptian Portrait",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade cushion cover with a bold portrait-inspired composition and expressive abstract detailing. Its art-led design adds strong personality and a gallery-like accent to modern interiors.",
+   "images": [
+    "egyptian-portrait-handmade-modern-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-festival-birds",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Festival Birds",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade cushion cover featuring an artistic figurative motif with vibrant colour blocking and stitched decorative detail. It works beautifully as a focal accent in curated interiors.",
+   "images": [
+    "festival-birds-handmade-modern-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-floating-fish",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Floating Fish",
+   "meta": "Silk · Art series",
+   "desc": "A handmade cushion cover featuring an artistic figurative motif with vibrant colour blocking and stitched decorative detail. It works beautifully as a focal accent in curated interiors.",
+   "images": [
+    "floating-fish-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-geometric-cat",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Geometric Cat",
+   "meta": "Silk · Art series",
+   "desc": "A handmade cushion cover featuring an expressive cat-inspired artwork with bold colour, stitched detail, and a playful decorative character. It is ideal for artistic, eclectic, and statement interiors.",
+   "images": [
+    "geometric-cat-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-golden-diamond",
+   "collection": "cushions",
+   "cat": "wool",
+   "title": "Golden Diamond",
+   "meta": "Wool · Crewel work",
+   "desc": "A handmade cushion cover with a structured geometric pattern and a crisp decorative rhythm. Its balanced motif makes it a versatile accent for both modern and classic interiors.",
+   "images": [
+    "golden-diamond-handmade-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-green-scroll",
+   "collection": "cushions",
+   "cat": "wool",
+   "title": "Green Scroll",
+   "meta": "Wool · Crewel work",
+   "desc": "A handmade cushion cover with ornamental floral and vine-inspired embroidery, designed to bring softness, texture, and an elegant decorative touch to interiors.",
+   "images": [
+    "green-scroll-handmade-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-ivory-vine",
+   "collection": "cushions",
+   "cat": "wool",
+   "title": "Ivory Vine",
+   "meta": "Wool · Crewel work",
+   "desc": "A handmade cushion cover with ornamental floral and vine-inspired embroidery, designed to bring softness, texture, and an elegant decorative touch to interiors.",
+   "images": [
+    "ivory-vine-handmade-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-kandinsky-block",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Kandinsky Block",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade cushion cover with a richly decorative surface and distinctive stitched detailing. Its crafted finish makes it well suited to statement styling, layered seating, and collected interiors.",
+   "images": [
+    "kandinsky-block-handmade-modern-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-midnight-cats",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Midnight Cats",
+   "meta": "Silk · Art series",
+   "desc": "A handmade cushion cover featuring an expressive cat-inspired artwork with bold colour, stitched detail, and a playful decorative character. It is ideal for artistic, eclectic, and statement interiors.",
+   "images": [
+    "midnight-cats-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-monochrome-sketch",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Monochrome Sketch",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade cushion cover with a richly decorative surface and distinctive stitched detailing. Its crafted finish makes it well suited to statement styling, layered seating, and collected interiors.",
+   "images": [
+    "monochrome-sketch-handmade-modern-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-moon-face-cat",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Moon Face Cat",
+   "meta": "Silk · Art series",
+   "desc": "A handmade cushion cover featuring an expressive cat-inspired artwork with bold colour, stitched detail, and a playful decorative character. It is ideal for artistic, eclectic, and statement interiors.",
+   "images": [
+    "moon-face-cat-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-mosaic-horse",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Mosaic Horse",
+   "meta": "Silk · Art series",
+   "desc": "A handmade cushion cover featuring an artistic figurative motif with vibrant colour blocking and stitched decorative detail. It works beautifully as a focal accent in curated interiors.",
+   "images": [
+    "mosaic-horse-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-olive-lattice",
+   "collection": "cushions",
+   "cat": "wool",
+   "title": "Olive Lattice",
+   "meta": "Wool · Crewel work",
+   "desc": "A handmade cushion cover with a structured geometric pattern and a crisp decorative rhythm. Its balanced motif makes it a versatile accent for both modern and classic interiors.",
+   "images": [
+    "olive-lattice-handmade-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-orange-quatrefoil",
+   "collection": "cushions",
+   "cat": "wool",
+   "title": "Orange Quatrefoil",
+   "meta": "Wool · Crewel work",
+   "desc": "A handmade cushion cover with a richly decorative surface and distinctive stitched detailing. Its crafted finish makes it well suited to statement styling, layered seating, and collected interiors.",
+   "images": [
+    "orange-quatrefoil-handmade-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-ornamental-swirl",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Ornamental Swirl",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade cushion cover with a flowing abstract composition and rich decorative colourwork. Its modern art influence makes it ideal for layered contemporary styling.",
+   "images": [
+    "ornamental-swirl-handmade-modern-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-ornate-cat",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Ornate Cat",
+   "meta": "Silk · Art series",
+   "desc": "A handmade cushion cover featuring an expressive cat-inspired artwork with bold colour, stitched detail, and a playful decorative character. It is ideal for artistic, eclectic, and statement interiors.",
+   "images": [
+    "ornate-cat-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-pastel-arc",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Pastel Arc",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade cushion cover with a flowing abstract composition and rich decorative colourwork. Its modern art influence makes it ideal for layered contemporary styling.",
+   "images": [
+    "pastel-arc-handmade-modern-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-pink-bloom",
+   "collection": "cushions",
+   "cat": "wool",
+   "title": "Pink Bloom",
+   "meta": "Wool · Crewel work",
+   "desc": "A handmade cushion cover with ornamental floral and vine-inspired embroidery, designed to bring softness, texture, and an elegant decorative touch to interiors.",
+   "images": [
+    "pink-bloom-handmade-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-playful-line",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Playful Line",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade cushion cover with a richly decorative surface and distinctive stitched detailing. Its crafted finish makes it well suited to statement styling, layered seating, and collected interiors.",
+   "images": [
+    "playful-line-handmade-modern-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-rainbow-scaled",
+   "collection": "cushions",
+   "cat": "wool",
+   "title": "Rainbow Scaled",
+   "meta": "Wool · Crewel work",
+   "desc": "A handmade cushion cover with a richly decorative surface and distinctive stitched detailing. Its crafted finish makes it well suited to statement styling, layered seating, and collected interiors.",
+   "images": [
+    "rainbow-scaled-handmade-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-red-cat",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Red Cat",
+   "meta": "Silk · Art series",
+   "desc": "A handmade cushion cover featuring an expressive cat-inspired artwork with bold colour, stitched detail, and a playful decorative character. It is ideal for artistic, eclectic, and statement interiors.",
+   "images": [
+    "red-cat-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-retro-swirl",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Retro Swirl",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade cushion cover with a flowing abstract composition and rich decorative colourwork. Its modern art influence makes it ideal for layered contemporary styling.",
+   "images": [
+    "retro-swirl-handmade-modern-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-silver-cubist-face",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Silver Cubist Face",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade cushion cover with a bold portrait-inspired composition and expressive abstract detailing. Its art-led design adds strong personality and a gallery-like accent to modern interiors.",
+   "images": [
+    "silver-cubist-face-handmade-modern-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-stone-vine",
+   "collection": "cushions",
+   "cat": "wool",
+   "title": "Stone Vine",
+   "meta": "Wool · Crewel work",
+   "desc": "A handmade cushion cover with ornamental floral and vine-inspired embroidery, designed to bring softness, texture, and an elegant decorative touch to interiors.",
+   "images": [
+    "stone-vine-handmade-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-sun-cat",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Sun Cat",
+   "meta": "Silk · Art series",
+   "desc": "A handmade cushion cover featuring an expressive cat-inspired artwork with bold colour, stitched detail, and a playful decorative character. It is ideal for artistic, eclectic, and statement interiors.",
+   "images": [
+    "sun-cat-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-teal-fern-spiral",
+   "collection": "cushions",
+   "cat": "wool",
+   "title": "Teal Fern Spiral",
+   "meta": "Wool · Crewel work",
+   "desc": "A handmade cushion cover with ornamental floral and vine-inspired embroidery, designed to bring softness, texture, and an elegant decorative touch to interiors.",
+   "images": [
+    "teal-fern-spiral-handmade-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-tribal-cat",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Tribal Cat",
+   "meta": "Silk · Art series",
+   "desc": "A handmade cushion cover featuring an expressive cat-inspired artwork with bold colour, stitched detail, and a playful decorative character. It is ideal for artistic, eclectic, and statement interiors.",
+   "images": [
+    "tribal-cat-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-vivid-scroll",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Vivid Scroll",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade cushion cover with ornamental floral and vine-inspired embroidery, designed to bring softness, texture, and an elegant decorative touch to interiors.",
+   "images": [
+    "vivid-scroll-handmade-modern-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-almond-ivory-vine",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Almond Ivory Vine",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade crewel cotton fabric featuring flowing vine embroidery in ivory and taupe on a soft almond-beige base. The artisanal crewel work gives this fabric a refined botanical character, making it well suited for cushions, upholstery, drapery, and elegant interior accents.",
+   "images": [
+    "almond-ivory-vine-crewel-cotton-fabric-flat-lay.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-badamwari-cream",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Badamwari Cream",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade badamwari cream crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "badamwari-cream-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-betaab-crewel-upholstery-cotton-fabric",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Betaab Crewel Upholstery Cotton Fabric",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade betaab crewel upholstery cotton fabric crewel upholstery fabric with richly embroidered surface detail and a decorative heritage character suited to statement interiors.",
+   "images": [
+    "betaab-crewel-hand-embroidered-cotton-upholstery-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-blue-aspen",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Blue Aspen",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade blue aspen crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "blue-aspen-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-brahmin-cream",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Brahmin Cream",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade brahmin cream crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "brahmin-cream-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-butterfly",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Butterfly",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade butterfly crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "butterfly-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-chelsea",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Chelsea",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade chelsea crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "chelsea-crewel-hand-embroidered-cotton-handloom-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-chelsea-green",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Chelsea Green",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade chelsea green crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "chelsea-green-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-cherry",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Cherry",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade cherry crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "cherry-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-danzdar-cream",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Danzdar Cream",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade danzdar cream crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "danzdar-cream-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-drass-crewel-upholstery-cotton-fabric",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Drass Crewel Upholstery Cotton Fabric",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade drass crewel upholstery cotton fabric crewel upholstery fabric with richly embroidered surface detail and a decorative heritage character suited to statement interiors.",
+   "images": [
+    "drass-crewel-hand-embroidered-upholstery-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-golden-chelsea",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Golden Chelsea",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade golden chelsea crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "golden-chelsea-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-ivory-floral-crewel-cotton-fabric-texture-study",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Ivory Floral Crewel Cotton Fabric Texture Study",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade crewel fabric shown in a soft close texture view, highlighting the subtle tonal embroidery and surface character of the weave. Ideal for presenting the understated craftsmanship of the fabric online.",
+   "images": [
+    "ivory-floral-crewel-cotton-fabric-texture-study.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-janpath-crewel-cotton-fabric-draped-detail",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Janpath Crewel Cotton Fabric Draped Detail",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade janpath crewel fabric shown in a draped detail view to highlight thread depth, movement, and the tactile quality of the embroidery.",
+   "images": [
+    "janpath-crewel-cotton-fabric-draped-detail.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-kathua",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Kathua",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade kathua crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "kathua-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-khanqah",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Khanqah",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade khanqah crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "khanqah-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-khanqaha",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Khanqaha",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade khanqaha crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "khanqaha-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-lotus",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Lotus",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade lotus crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "lotus-crewel-handmade-embroidery-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-mattan",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Mattan",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade mattan crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "mattan-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-meadow-vine-crewel-cotton-fabric-wide-view",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Meadow Vine Crewel Cotton Fabric Wide View",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade meadow vine crewel fabric presented to show the overall repeat and balanced flow of the embroidered motif, making it suitable for cushions, upholstery, and drapery.",
+   "images": [
+    "meadow-vine-crewel-cotton-fabric-wide-view.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-mughal-crewel-upholstery-cotton-fabric",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Mughal Crewel Upholstery Cotton Fabric",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade mughal crewel upholstery cotton fabric crewel upholstery fabric with richly embroidered surface detail and a decorative heritage character suited to statement interiors.",
+   "images": [
+    "mughal-crewel-hand-embroidered-cotton-upholstery-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-multi-chelsea",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Multi Chelsea",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade multi chelsea crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "multi-chelsea-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-napa",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Napa",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade napa crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "napa-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-newbury",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Newbury",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade newbury crewel fabric presented to show the overall repeat and balanced flow of the embroidered motif, making it suitable for cushions, upholstery, and drapery.",
+   "images": [
+    "newbury-crewel-hand-embroidered-cotton-fabric-full-pattern-view.jpg",
+    "newbury-crewel-hand-embroidered-cotton-fabric-repeat-view.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-nishat",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Nishat",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade nishat crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "nishat-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-nubra",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Nubra",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade nubra crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "nubra-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-paisley-garden",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Paisley Garden",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade paisley garden crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "paisley-garden-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-pomegranate-garden",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Pomegranate Garden",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade crewel cotton fabric with richly embroidered pomegranate and floral motifs in olive, rust, and garnet tones. Rooted in traditional crewel craftsmanship, this design brings warmth, depth, and a heritage-inspired decorative look to upholstery and textile-led interiors.",
+   "images": [
+    "pomegranate-garden-crewel-cotton-fabric-flat-lay.jpg",
+    "pomegranate-garden-crewel-cotton-fabric-draped.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-soft-ivory-floral-vine-crewel-cotton-fabric-square-view",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Soft Ivory Floral Vine Crewel Cotton Fabric Square View",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade soft ivory floral vine crewel fabric presented to show the overall repeat and balanced flow of the embroidered motif, making it suitable for cushions, upholstery, and drapery.",
+   "images": [
+    "soft-ivory-floral-vine-crewel-cotton-fabric-square-view.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-soft-ivory-floral-vine-crewel-cotton-fabric-wide-view",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Soft Ivory Floral Vine Crewel Cotton Fabric Wide View",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade soft ivory floral vine crewel fabric presented to show the overall repeat and balanced flow of the embroidered motif, making it suitable for cushions, upholstery, and drapery.",
+   "images": [
+    "soft-ivory-floral-vine-crewel-cotton-fabric-wide-view.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-sonmarg",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Sonmarg",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade sonmarg crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "sonmarg-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-sosan",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Sosan",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade sosan crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "sosan-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-sosan-crewel-cotton-fabric-ii",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Sosan Crewel Cotton Fabric II",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade sosan variant crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "sosan-crewel-hand-embroidered-cotton-fabric-variant.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-sosanposh",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Sosanposh",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade sosanposh crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "sosanposh-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-sumbal",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Sumbal",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade sumbal crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "sumbal-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-taupe-ivory-botanical-vine",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Taupe Ivory Botanical Vine",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade crewel cotton fabric with taupe vine trails and delicate ivory floral sprigs set against a refined beige ground. The understated crewel embroidery offers a calm, artisanal look suited to upholstery, cushions, drapery, and neutral layered spaces.",
+   "images": [
+    "taupe-ivory-botanical-vine-crewel-cotton-fabric-flat-lay.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-techmal",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Techmal",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade techmal crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "techmal-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-techmal-white",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Techmal White",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade techmal white crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "techmal-white-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-wardar-multi",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Wardar Multi",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade wardar multi crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "wardar-multi-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-watlab",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Watlab",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade watlab crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "watlab-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-watlab-crewel-cotton-fabric-soft-ivory-view",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Watlab Crewel Cotton Fabric Soft Ivory View",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade watlab crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "watlab-crewel-cotton-fabric-soft-ivory-view.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-watlab-green",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Watlab Green",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade watlab green crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "watlab-green-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-wild-forest",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Wild Forest",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade wild forest crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "wild-forest-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-woodmark",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Woodmark",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade woodmark crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "woodmark-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "fabrics-zanskar",
+   "collection": "fabrics",
+   "cat": "fabric",
+   "title": "Zanskar",
+   "meta": "Crewel hand-embroidered cotton",
+   "desc": "A handmade zanskar crewel cotton fabric with decorative embroidery and an artisanal finish. Designed for elegant interiors, it works beautifully for cushions, upholstery, drapery, and textile-led styling.",
+   "images": [
+    "zanskar-crewel-hand-embroidered-cotton-fabric.jpg"
+   ]
+  },
+  {
+   "id": "rugs-amber-medallion",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Amber Medallion",
+   "meta": "Chain stitch rug",
+   "desc": "A handmade chain stitch rug with richly decorative stitched detail and an artisanal finish. The amber medallion design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "amber-medallion-handmade-chain-stitch-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-aqua-vine",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Aqua Vine",
+   "meta": "Chain stitch rug",
+   "desc": "A handmade chain stitch rug with richly decorative stitched detail and an artisanal finish. The aqua vine design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "aqua-vine-handmade-chain-stitch-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-badam",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Badam",
+   "meta": "Chain stitch · Wool",
+   "desc": "A handmade chain stitch wool rug with artisanal embroidery and a richly decorative surface. The badam design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "badam-handmade-chain-stitch-wool-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-beerwah",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Beerwah",
+   "meta": "Chain stitch · Wool",
+   "desc": "A handmade chain stitch wool rug with artisanal embroidery and a richly decorative surface. The beerwah design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "beerwah-handmade-chain-stitch-wool-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-bird-garden",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Bird Garden",
+   "meta": "Chain stitch rug",
+   "desc": "A handmade chain stitch rug with richly embroidered birds, florals, and ornamental detail. The handcrafted pattern brings warmth, artistry, and a decorative heritage feel to interiors.",
+   "images": [
+    "bird-garden-handmade-chain-stitch-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-blue-arch",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Blue Arch",
+   "meta": "Chain stitch rug",
+   "desc": "A handmade chain stitch rug with an elegant arch-inspired composition and finely worked floral embroidery. Its structured layout and soft palette give it a refined decorative presence.",
+   "images": [
+    "blue-arch-handmade-chain-stitch-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-butterflies",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Butterflies",
+   "meta": "Chain stitch · Wool",
+   "desc": "A handmade chain stitch wool rug with lively butterfly-inspired motifs and decorative floral embroidery. The playful handcrafted pattern brings warmth and colour to textile-led interiors.",
+   "images": [
+    "butterflies-handmade-chain-stitch-wool-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-carnival-rosette",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Carnival Rosette",
+   "meta": "Chain stitch rug",
+   "desc": "A handmade chain stitch rug with richly decorative stitched detail and an artisanal finish. The carnival rosette design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "carnival-rosette-handmade-chain-stitch-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-charcoal-ivory-allover",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Charcoal Ivory Allover",
+   "meta": "Chain stitch rug",
+   "desc": "A handmade chain stitch rug with a dense allover floral field and finely worked stitched detail. The repeating pattern gives the rug a calm, layered, and heritage-inspired decorative character.",
+   "images": [
+    "charcoal-ivory-allover-handmade-chain-stitch-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-classic-medallion",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Classic Medallion",
+   "meta": "Chain stitch rug",
+   "desc": "A handmade chain stitch rug with richly decorative stitched detail and an artisanal finish. The classic medallion design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "classic-medallion-handmade-chain-stitch-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-emerald-trellis",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Emerald Trellis",
+   "meta": "Chain stitch rug",
+   "desc": "A handmade chain stitch rug with a structured geometric repeat and clean decorative rhythm. Its patterned layout makes it especially effective for bold, graphic interior styling.",
+   "images": [
+    "emerald-trellis-handmade-chain-stitch-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-farhani",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Farhani",
+   "meta": "Chain stitch · Wool",
+   "desc": "A handmade chain stitch wool rug with artisanal embroidery and a richly decorative surface. The farhani design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "farhani-handmade-chain-stitch-wool-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-feroz",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Feroz",
+   "meta": "Chain stitch · Wool",
+   "desc": "A handmade chain stitch wool rug with artisanal embroidery and a richly decorative surface. The feroz design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "feroz-handmade-chain-stitch-wool-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-firdaus",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Firdaus",
+   "meta": "Chain stitch · Wool",
+   "desc": "A handmade chain stitch wool rug with artisanal embroidery and a richly decorative surface. The firdaus design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "firdaus-handmade-chain-stitch-wool-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-gulberg",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Gulberg",
+   "meta": "Chain stitch · Wool",
+   "desc": "A handmade chain stitch wool rug with artisanal embroidery and a richly decorative surface. The gulberg design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "gulberg-handmade-chain-stitch-wool-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-gulnaar",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Gulnaar",
+   "meta": "Chain stitch · Wool",
+   "desc": "A handmade chain stitch wool rug with artisanal embroidery and a richly decorative surface. The gulnaar design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "gulnaar-handmade-chain-stitch-wool-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-gulposh",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Gulposh",
+   "meta": "Chain stitch · Wool",
+   "desc": "A handmade chain stitch wool rug with artisanal embroidery and a richly decorative surface. The gulposh design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "gulposh-handmade-chain-stitch-wool-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-heritage-arch",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Heritage Arch",
+   "meta": "Chain stitch rug",
+   "desc": "A handmade chain stitch rug with an elegant arch-inspired composition and finely worked ornamental embroidery. Its balanced layout and decorative detailing give it a refined statement presence.",
+   "images": [
+    "heritage-arch-handmade-chain-stitch-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-ivory-arch",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Ivory Arch",
+   "meta": "Chain stitch rug",
+   "desc": "A handmade chain stitch rug with an elegant arch-inspired composition and finely worked ornamental embroidery. Its balanced layout and decorative detailing give it a refined statement presence.",
+   "images": [
+    "ivory-arch-handmade-chain-stitch-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-jahaan",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Jahaan",
+   "meta": "Chain stitch · Wool",
+   "desc": "A handmade chain stitch wool rug with artisanal embroidery and a richly decorative surface. The jahaan design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "jahaan-handmade-chain-stitch-wool-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-japan-deco",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Japan Deco",
+   "meta": "Chain stitch · Wool",
+   "desc": "A handmade chain stitch wool rug with artisanal embroidery and a richly decorative surface. The japan deco design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "japan-deco-handmade-chain-stitch-wool-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-kaleidoscope-medallion",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Kaleidoscope Medallion",
+   "meta": "Chain stitch rug",
+   "desc": "A handmade chain stitch rug with richly decorative stitched detail and an artisanal finish. The kaleidoscope medallion design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "kaleidoscope-medallion-handmade-chain-stitch-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-kanzalwan",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Kanzalwan",
+   "meta": "Chain stitch · Wool",
+   "desc": "A handmade chain stitch wool rug with artisanal embroidery and a richly decorative surface. The kanzalwan design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "kanzalwan-handmade-chain-stitch-wool-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-khalis",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Khalis",
+   "meta": "Chain stitch · Wool",
+   "desc": "A handmade chain stitch wool rug with artisanal embroidery and a richly decorative surface. The khalis design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "khalis-handmade-chain-stitch-wool-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-khartoum",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Khartoum",
+   "meta": "Chain stitch · Wool",
+   "desc": "A handmade chain stitch wool rug with artisanal embroidery and a richly decorative surface. The khartoum design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "khartoum-handmade-chain-stitch-wool-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-khilanmarg",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Khilanmarg",
+   "meta": "Chain stitch · Wool",
+   "desc": "A handmade chain stitch wool rug with artisanal embroidery and a richly decorative surface. The khilanmarg design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "khilanmarg-handmade-chain-stitch-wool-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-makdoom",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Makdoom",
+   "meta": "Chain stitch · Wool",
+   "desc": "A handmade chain stitch wool rug with artisanal embroidery and a richly decorative surface. The makdoom design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "makdoom-handmade-chain-stitch-wool-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-maktoub",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Maktoub",
+   "meta": "Chain stitch · Wool",
+   "desc": "A handmade chain stitch wool rug with artisanal embroidery and a richly decorative surface. The maktoub design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "maktoub-handmade-chain-stitch-wool-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-marigold",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Marigold",
+   "meta": "Chain stitch · Crewel",
+   "desc": "A handmade chain stitch wool rug with artisanal embroidery and a richly decorative surface. The marigold design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "marigold-handmade-chain-stitch-crewel-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-marigold-ivory",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Marigold Ivory",
+   "meta": "Chain stitch rug",
+   "desc": "A handmade chain stitch rug with richly decorative stitched detail and an artisanal finish. The marigold ivory design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "marigold-ivory-handmade-chain-stitch-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-marpech",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Marpech",
+   "meta": "Chain stitch · Wool",
+   "desc": "A handmade chain stitch wool rug with artisanal embroidery and a richly decorative surface. The marpech design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "marpech-handmade-chain-stitch-wool-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-midnight-medallion",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Midnight Medallion",
+   "meta": "Chain stitch rug",
+   "desc": "A handmade chain stitch rug with richly decorative stitched detail and an artisanal finish. The midnight medallion design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "midnight-medallion-handmade-chain-stitch-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-modern-cat",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Modern Cat",
+   "meta": "Chain stitch rug",
+   "desc": "A handmade chain stitch rug with a stylised cat motif and a contemporary decorative feel. Its bold graphic composition makes it ideal for character-led interiors and collectible textile styling.",
+   "images": [
+    "modern-cat-handmade-chain-stitch-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-najeeb",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Najeeb",
+   "meta": "Chain stitch · Wool",
+   "desc": "A handmade chain stitch wool rug with artisanal embroidery and a richly decorative surface. The najeeb design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "najeeb-handmade-chain-stitch-wool-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-olive-medallion",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Olive Medallion",
+   "meta": "Chain stitch rug",
+   "desc": "A handmade chain stitch rug with richly decorative stitched detail and an artisanal finish. The olive medallion design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "olive-medallion-handmade-chain-stitch-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-pearls",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Pearls",
+   "meta": "Chain stitch · Wool",
+   "desc": "A handmade chain stitch wool rug with artisanal embroidery and a richly decorative surface. The pearls design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "pearls-handmade-chain-stitch-wool-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-picasso",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Picasso",
+   "meta": "Chain stitch · Crewel",
+   "desc": "A handmade chain stitch crewel rug with a bold artistic face motif and vibrant colour blocking. Its expressive design makes it ideal for statement interiors and collectible textile styling.",
+   "images": [
+    "picasso-handmade-chain-stitch-crewel-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-razara",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Razara",
+   "meta": "Chain stitch · Wool",
+   "desc": "A handmade chain stitch wool rug with artisanal embroidery and a richly decorative surface. The razara design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "razara-handmade-chain-stitch-wool-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-rose-bird",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Rose Bird",
+   "meta": "Chain stitch rug",
+   "desc": "A handmade chain stitch rug with richly embroidered birds, florals, and ornamental detail. The handcrafted pattern brings warmth, artistry, and a decorative heritage feel to interiors.",
+   "images": [
+    "rose-bird-handmade-chain-stitch-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-ruby-arch",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Ruby Arch",
+   "meta": "Chain stitch rug",
+   "desc": "A handmade chain stitch rug with an elegant arch-inspired composition and finely worked ornamental embroidery. Its balanced layout and decorative detailing give it a refined statement presence.",
+   "images": [
+    "ruby-arch-handmade-chain-stitch-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-saffron-medallion",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Saffron Medallion",
+   "meta": "Chain stitch rug",
+   "desc": "A handmade chain stitch rug with richly decorative stitched detail and an artisanal finish. The saffron medallion design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "saffron-medallion-handmade-chain-stitch-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-sage-ivory",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Sage Ivory",
+   "meta": "Chain stitch rug",
+   "desc": "A handmade chain stitch rug in soft sage and ivory tones, featuring dense floral embroidery and a calm, heritage-inspired decorative field.",
+   "images": [
+    "sage-ivory-handmade-chain-stitch-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-sage-ivory-allover",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Sage Ivory Allover",
+   "meta": "Chain stitch rug",
+   "desc": "A handmade chain stitch rug with a dense allover floral field and finely worked stitched detail. The repeating pattern gives the rug a calm, layered, and heritage-inspired decorative character.",
+   "images": [
+    "sage-ivory-allover-handmade-chain-stitch-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-scenic-lake",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Scenic Lake",
+   "meta": "Chain stitch rug",
+   "desc": "A handmade chain stitch rug featuring a scenic landscape composition with decorative borders and vivid embroidered detail. This rug has a distinctive storytelling quality suited to statement display.",
+   "images": [
+    "scenic-lake-handmade-chain-stitch-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-shahi",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Shahi",
+   "meta": "Chain stitch · Wool",
+   "desc": "A handmade chain stitch wool rug with artisanal embroidery and a richly decorative surface. The shahi design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "shahi-handmade-chain-stitch-wool-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-siya",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Siya",
+   "meta": "Chain stitch · Wool",
+   "desc": "A handmade chain stitch wool rug with artisanal embroidery and a richly decorative surface. The siya design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "siya-handmade-chain-stitch-wool-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-sunburst-floral",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Sunburst Floral",
+   "meta": "Chain stitch rug",
+   "desc": "A handmade chain stitch rug with richly decorative stitched detail and an artisanal finish. The sunburst floral design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "sunburst-floral-handmade-chain-stitch-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-titli",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Titli",
+   "meta": "Chain stitch · Wool",
+   "desc": "A handmade chain stitch wool rug with lively butterfly-inspired motifs and decorative floral embroidery. The playful handcrafted pattern brings warmth and colour to textile-led interiors.",
+   "images": [
+    "titli-handmade-chain-stitch-wool-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-traditional-kashmir",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Traditional Kashmir",
+   "meta": "Chain stitch · Crewel",
+   "desc": "A handmade chain stitch wool rug with artisanal embroidery and a richly decorative surface. The traditional kashmir design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "traditional-kashmir-handmade-chain-stitch-crewel-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-tree-of-life",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Tree of Life",
+   "meta": "Chain stitch · Crewel",
+   "desc": "A handmade chain stitch crewel rug featuring a richly detailed tree of life composition, embroidered with decorative floral elements and a classic ornamental border.",
+   "images": [
+    "tree-of-life-handmade-chain-stitch-crewel-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-tribal-stripe",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Tribal Stripe",
+   "meta": "Chain stitch rug",
+   "desc": "A handmade chain stitch rug with a structured geometric repeat and clean decorative rhythm. Its patterned layout makes it especially effective for bold, graphic interior styling.",
+   "images": [
+    "tribal-stripe-handmade-chain-stitch-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-turquoise-medallion",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Turquoise Medallion",
+   "meta": "Chain stitch rug",
+   "desc": "A handmade chain stitch rug with richly decorative stitched detail and an artisanal finish. The turquoise medallion design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "turquoise-medallion-handmade-chain-stitch-rug.jpg"
+   ]
+  },
+  {
+   "id": "rugs-zard",
+   "collection": "rugs",
+   "cat": "rug",
+   "title": "Zard",
+   "meta": "Chain stitch · Wool",
+   "desc": "A handmade chain stitch wool rug with artisanal embroidery and a richly decorative surface. The zard design is well suited to statement interiors, collectors, and handcrafted decor styling.",
+   "images": [
+    "zard-handmade-chain-stitch-wool-rug.jpg"
+   ]
+  },
+  {
+   "id": "throws-neutral",
+   "collection": "throws",
+   "cat": "throw",
+   "title": "Neutral",
+   "meta": "Throws & textiles",
+   "desc": "A handmade crewel fabric throw presentation featuring coordinated neutral tones and artisanal embroidery.",
+   "images": [
+    "neutral-crewel-fabric-swatch-set.jpg"
+   ]
+  }
+ ]
+}
