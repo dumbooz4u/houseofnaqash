@@ -10,7 +10,7 @@
  * and paste the result into PASSWORD_HASH below.
  */
 
-const PASSWORD_HASH = '$2y$12$FMighSNVBIk1WhiyVENpseP1A5lQAPX47niTnCRZFOsLgHZ/Cpm6K';
+const PASSWORD_HASH = '$2y$12$XUvXuDF7sRGTh/nRthPNm.0AwXSIPmWAapYroSviPjlJGZmbmYuCu';
 
 const DATA_FILE  = __DIR__ . '/data/products.json';
 const IMAGES_DIR = __DIR__ . '/images';
