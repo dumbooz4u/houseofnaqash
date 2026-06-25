@@ -1655,6 +1655,589 @@
    "images": [
     "ivory-scroll-vine-crewel-curtain.jpg"
    ]
+  },
+  {
+   "id": "cushions-walnut-vine",
+   "collection": "cushions",
+   "cat": "wool",
+   "title": "Walnut Vine",
+   "meta": "Wool · Crewel work",
+   "desc": "A handmade woollen crewel cushion cover, hand embroidered in Kashmir. Its walnut vine design in raised wool thread adds texture and quiet warmth to considered interiors.",
+   "images": [
+    "walnut-vine-handmade-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-dusk-floral",
+   "collection": "cushions",
+   "cat": "wool",
+   "title": "Dusk Floral",
+   "meta": "Wool · Crewel work",
+   "desc": "A handmade woollen crewel cushion cover, hand embroidered in Kashmir. Its dusk floral design in raised wool thread adds texture and quiet warmth to considered interiors.",
+   "images": [
+    "dusk-floral-handmade-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-golden-mughal",
+   "collection": "cushions",
+   "cat": "wool",
+   "title": "Golden Mughal",
+   "meta": "Wool · Crewel work",
+   "desc": "A handmade woollen crewel cushion cover, hand embroidered in Kashmir. Its golden mughal design in raised wool thread adds texture and quiet warmth to considered interiors.",
+   "images": [
+    "golden-mughal-handmade-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-crimson-garden",
+   "collection": "cushions",
+   "cat": "wool",
+   "title": "Crimson Garden",
+   "meta": "Wool · Crewel work",
+   "desc": "A handmade woollen crewel cushion cover, hand embroidered in Kashmir. Its crimson garden design in raised wool thread adds texture and quiet warmth to considered interiors.",
+   "images": [
+    "crimson-garden-handmade-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-silver-fern",
+   "collection": "cushions",
+   "cat": "wool",
+   "title": "Silver Fern",
+   "meta": "Wool · Crewel work",
+   "desc": "A handmade woollen crewel cushion cover, hand embroidered in Kashmir. Its silver fern design in raised wool thread adds texture and quiet warmth to considered interiors.",
+   "images": [
+    "silver-fern-handmade-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-pewter-vine",
+   "collection": "cushions",
+   "cat": "wool",
+   "title": "Pewter Vine",
+   "meta": "Wool · Crewel work",
+   "desc": "A handmade woollen crewel cushion cover, hand embroidered in Kashmir. Its pewter vine design in raised wool thread adds texture and quiet warmth to considered interiors.",
+   "images": [
+    "pewter-vine-handmade-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-sunlit-cat-trio",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Sunlit Cat Trio",
+   "meta": "Silk · Art series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its sunlit cat trio design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "sunlit-cat-trio-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-sapphire-cat-family",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Sapphire Cat Family",
+   "meta": "Silk · Art series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its sapphire cat family design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "sapphire-cat-family-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-carnival-cat",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Carnival Cat",
+   "meta": "Silk · Art series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its carnival cat design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "carnival-cat-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-scarlet-cat-family",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Scarlet Cat Family",
+   "meta": "Silk · Art series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its scarlet cat family design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "scarlet-cat-family-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-ruby-ornate-cat",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Ruby Ornate Cat",
+   "meta": "Silk · Art series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its ruby ornate cat design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "ruby-ornate-cat-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-harlequin-cat",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Harlequin Cat",
+   "meta": "Silk · Art series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its harlequin cat design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "harlequin-cat-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-pastel-cat-trio",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Pastel Cat Trio",
+   "meta": "Silk · Art series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its pastel cat trio design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "pastel-cat-trio-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-indigo-cubist-cats",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Indigo Cubist Cats",
+   "meta": "Silk · Art series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its indigo cubist cats design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "indigo-cubist-cats-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-amethyst-cats",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Amethyst Cats",
+   "meta": "Silk · Art series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its amethyst cats design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "amethyst-cats-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-garden-cat",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Garden Cat",
+   "meta": "Silk · Art series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its garden cat design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "garden-cat-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-crimson-figures",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Crimson Figures",
+   "meta": "Silk · Art series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its crimson figures design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "crimson-figures-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-marigold-cat",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Marigold Cat",
+   "meta": "Silk · Art series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its marigold cat design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "marigold-cat-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-teal-cat",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Teal Cat",
+   "meta": "Silk · Art series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its teal cat design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "teal-cat-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-amber-cubist",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Amber Cubist",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its amber cubist design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "amber-cubist-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-cubist-muse",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Cubist Muse",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its cubist muse design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "cubist-muse-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-sand-cubist",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Sand Cubist",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its sand cubist design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "sand-cubist-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-line-muse",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Line Muse",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its line muse design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "line-muse-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-olive-geometric",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Olive Geometric",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its olive geometric design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "olive-geometric-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-vermilion-cats",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Vermilion Cats",
+   "meta": "Silk · Art series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its vermilion cats design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "vermilion-cats-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-crimson-angel",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Crimson Angel",
+   "meta": "Silk · Art series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its crimson angel design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "crimson-angel-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-azure-cubist-face",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Azure Cubist Face",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its azure cubist face design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "azure-cubist-face-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-amber-face",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Amber Face",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its amber face design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "amber-face-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-carnival-abstract",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Carnival Abstract",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its carnival abstract design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "carnival-abstract-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-pomegranate-tree",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Pomegranate Tree",
+   "meta": "Silk · Art series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its pomegranate tree design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "pomegranate-tree-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-scarlet-figures",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Scarlet Figures",
+   "meta": "Silk · Art series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its scarlet figures design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "scarlet-figures-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-guardian-angel",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Guardian Angel",
+   "meta": "Silk · Art series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its guardian angel design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "guardian-angel-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-cobalt-cubist-face",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Cobalt Cubist Face",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its cobalt cubist face design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "cobalt-cubist-face-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-saffron-swirl",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Saffron Swirl",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its saffron swirl design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "saffron-swirl-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-cubist-eye",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Cubist Eye",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its cubist eye design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "cubist-eye-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-garden-tree",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Garden Tree",
+   "meta": "Silk · Art series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its garden tree design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "garden-tree-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-carmine-face",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Carmine Face",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its carmine face design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "carmine-face-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-golden-tree",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Golden Tree",
+   "meta": "Silk · Art series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its golden tree design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "golden-tree-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-senorita-muse",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Senorita Muse",
+   "meta": "Silk · Art series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its senorita muse design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "senorita-muse-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-cafe-cubist",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Cafe Cubist",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its cafe cubist design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "cafe-cubist-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-morning-muse",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Morning Muse",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its morning muse design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "morning-muse-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-indigo-muse",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Indigo Muse",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its indigo muse design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "indigo-muse-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-rose-portrait",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Rose Portrait",
+   "meta": "Silk · Art series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its rose portrait design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "rose-portrait-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-lakeside",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Lakeside",
+   "meta": "Silk · Art series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its lakeside design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "lakeside-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-emerald-swirl",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Emerald Swirl",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its emerald swirl design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "emerald-swirl-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-sunset-face",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Sunset Face",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its sunset face design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "sunset-face-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-scarlet-lady",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Scarlet Lady",
+   "meta": "Silk · Art series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its scarlet lady design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "scarlet-lady-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-ruby-cubist",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Ruby Cubist",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its ruby cubist design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "ruby-cubist-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-ivory-line-face",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Ivory Line Face",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its ivory line face design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "ivory-line-face-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-rainbow-cubist",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Rainbow Cubist",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its rainbow cubist design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "rainbow-cubist-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-cobalt-figures",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Cobalt Figures",
+   "meta": "Silk · Art series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its cobalt figures design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "cobalt-figures-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-ivory-abstract",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Ivory Abstract",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its ivory abstract design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "ivory-abstract-handmade-art-cushion-cover.jpg"
+   ]
+  },
+  {
+   "id": "cushions-sketch-muse",
+   "collection": "cushions",
+   "cat": "silk",
+   "title": "Sketch Muse",
+   "meta": "Silk · Modern series",
+   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its sketch muse design brings colour, character and a gallery-like accent to modern interiors.",
+   "images": [
+    "sketch-muse-handmade-art-cushion-cover.jpg"
+   ]
   }
  ]
 }
