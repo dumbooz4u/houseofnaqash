@@ -48,7 +48,7 @@ BOTEH = '''<span class="boteh" aria-hidden="true"><svg viewBox="0 0 24 24" fill=
 
 NAV = [("index.html", "Home"), ("cushions.html", "Cushions"),
        ("fabrics.html", "Fabrics"), ("rugs.html", "Rugs"),
-       ("throws.html", "Throws"), ("contact.html", "Contact")]
+       ("throws.html", "Throws")]
 
 
 def head(title, desc, page, og_image="images/tree-of-life-handmade-chain-stitch-crewel-rug.jpg"):
@@ -87,9 +87,10 @@ def header(active):
     </a>
     <nav class="site-nav" id="siteNav" aria-label="Primary">
 {links}
+      <a href="contact.html" class="nav-enquire{' active' if active == 'contact.html' else ''}">Enquire</a>
     </nav>
     <div class="header-cta">
-      <a class="btn btn-line btn-sm" href="{WA_MSG}" target="_blank" rel="noopener">Enquire</a>
+      <a class="btn btn-line btn-sm" href="contact.html">Enquire</a>
       <button class="nav-toggle" id="navToggle" aria-label="Open menu" aria-expanded="false"><span></span><span></span></button>
     </div>
   </div>

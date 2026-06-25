@@ -190,6 +190,8 @@ em { font-style: italic; }
 }
 .site-nav a:hover, .site-nav a.active { color: var(--ink); }
 .site-nav a:hover::after, .site-nav a.active::after { transform: scaleX(1); }
+/* the Enquire button (top-right) covers this on desktop; show only in the mobile menu */
+.nav-enquire { display: none; }
 
 .header-cta { display: flex; align-items: center; gap: 1rem; }
 
@@ -1226,6 +1228,7 @@ em { font-style: italic; }
   body.nav-open { overflow: hidden; }
   .nav-toggle { display: flex; }
   .header-cta .btn { display: none; }
+  .nav-enquire { display: block; } /* reachable in the mobile menu since the button is hidden */
 
   .hero { grid-template-columns: 1fr; min-height: 0; }
   .hero-copy { padding: 8.5rem 6vw 4rem; }
