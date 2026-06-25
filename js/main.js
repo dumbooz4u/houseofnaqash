@@ -570,9 +570,7 @@
         reply_to: v.email,
         phone: v.phone || "—",
         topic: v.topic,
-        message: (v.msg || "(no message)") +
-          "\n\n— sent from houseofnaqash.com\nEmail: " + (v.email || "—") +
-          "\nPhone: " + (v.phone || "—")
+        message: v.msg || "(no message)"
       }).then(function () {
         setStatus("Thank you — your enquiry has been sent. We’ll be in touch shortly.", "ok");
         form.reset();
