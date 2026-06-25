@@ -522,21 +522,76 @@
     }).catch(function () {});
   }
 
-  /* Contact form → WhatsApp */
-  var form = document.getElementById("waForm");
+  /* Contact form → email (primary, via EmailJS) + WhatsApp (secondary) */
+  var form = document.getElementById("enquiryForm");
   if (form) {
+    var cfg = window.HON_EMAILJS;
+    if (cfg && window.emailjs) {
+      try { emailjs.init({ publicKey: cfg.publicKey }); } catch (e) {}
+    }
+    var statusEl = document.getElementById("formStatus");
+    var emailBtn = document.getElementById("sendEmail");
+    var waBtn = document.getElementById("sendWa");
+
+    function field(id) { return document.getElementById(id).value.trim(); }
+    function readForm() {
+      return {
+        name: field("fName"), email: field("fEmail"), phone: field("fPhone"),
+        topic: document.getElementById("fTopic").value, msg: field("fMsg"),
+        hp: document.getElementById("fCompany").value
+      };
+    }
+    function setStatus(msg, kind) {
+      statusEl.textContent = msg || "";
+      statusEl.className = "form-status" + (kind ? " " + kind : "");
+    }
+    /* returns an error string, "" if ok, or "bot" to silently drop */
+    function check(v) {
+      if (v.hp) return "bot";
+      if (!v.name) return "Please enter your name.";
+      if (!v.email && !v.phone) return "Please add an email or a phone number so we can reach you.";
+      if (v.email && !/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(v.email)) return "That email address doesn’t look right.";
+      return "";
+    }
+
     form.addEventListener("submit", function (e) {
       e.preventDefault();
-      var name = document.getElementById("fName").value.trim();
-      var topic = document.getElementById("fTopic").value;
-      var msg = document.getElementById("fMsg").value.trim();
-      var text =
-        "Hello House of Naqash, my name is " + name + ". " +
-        "I'm interested in: " + topic + "." + (msg ? "\n\n" + msg : "");
-      window.open(
-        "https://wa.me/919419014030?text=" + encodeURIComponent(text),
-        "_blank", "noopener"
-      );
+      var v = readForm(), err = check(v);
+      if (err === "bot") return;
+      if (err) { setStatus(err, "err"); return; }
+      if (!(cfg && window.emailjs)) {
+        setStatus("Email isn’t available right now — please use the WhatsApp option.", "err");
+        return;
+      }
+      emailBtn.disabled = true;
+      setStatus("Sending your enquiry…", null);
+      emailjs.send(cfg.service, cfg.template, {
+        from_name: v.name,
+        reply_to: v.email,
+        phone: v.phone || "—",
+        topic: v.topic,
+        message: (v.msg || "(no message)") +
+          "\n\n— sent from houseofnaqash.com\nEmail: " + (v.email || "—") +
+          "\nPhone: " + (v.phone || "—")
+      }).then(function () {
+        setStatus("Thank you — your enquiry has been sent. We’ll be in touch shortly.", "ok");
+        form.reset();
+      }).catch(function () {
+        setStatus("Sorry, something went wrong. Please try the WhatsApp option or email us directly.", "err");
+      }).then(function () { emailBtn.disabled = false; });
+    });
+
+    waBtn.addEventListener("click", function () {
+      var v = readForm(), err = check(v);
+      if (err === "bot") return;
+      if (err) { setStatus(err, "err"); return; }
+      var text = "Hello House of Naqash, my name is " + v.name + ". " +
+        "I'm interested in: " + v.topic + "." +
+        (v.email ? "\nEmail: " + v.email : "") +
+        (v.phone ? "\nPhone: " + v.phone : "") +
+        (v.msg ? "\n\n" + v.msg : "");
+      window.open("https://wa.me/919419014030?text=" + encodeURIComponent(text),
+        "_blank", "noopener");
     });
   }
 })();

@@ -821,8 +821,8 @@ em { font-style: italic; }
 }
 .form-title { font: 500 1.8rem var(--serif); color: var(--ink); }
 .form-sub { font-size: 0.92rem; color: var(--muted); margin: 0.4rem 0 1.8rem; }
-#waForm { display: flex; flex-direction: column; gap: 1.3rem; }
-#waForm label {
+#enquiryForm { display: flex; flex-direction: column; gap: 1.2rem; }
+#enquiryForm label {
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
@@ -831,7 +831,7 @@ em { font-style: italic; }
   text-transform: uppercase;
   color: var(--muted);
 }
-#waForm input, #waForm select, #waForm textarea {
+#enquiryForm input, #enquiryForm select, #enquiryForm textarea {
   font: 300 1.02rem var(--sans);
   color: var(--ink);
   background: var(--cream);
@@ -844,11 +844,23 @@ em { font-style: italic; }
   -webkit-appearance: none;
   resize: vertical;
 }
-#waForm input:focus, #waForm select:focus, #waForm textarea:focus {
+#enquiryForm input:focus, #enquiryForm select:focus, #enquiryForm textarea:focus {
   outline: none;
   border-color: var(--gold);
 }
-#waForm .btn { align-self: flex-start; margin-top: 0.4rem; }
+.form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2rem; }
+.form-hint {
+  display: flex; align-items: center; gap: 0.5rem;
+  margin: -0.4rem 0 0; font: 300 0.84rem var(--sans); font-style: italic; color: var(--muted);
+}
+.form-hint .boteh svg { width: 14px; height: 14px; }
+/* honeypot — hidden from people, visible to dumb bots */
+.hp { position: absolute !important; left: -9999px !important; width: 1px; height: 1px; opacity: 0; pointer-events: none; }
+.form-actions { display: flex; flex-wrap: wrap; gap: 0.8rem; margin-top: 0.5rem; }
+.form-status { font-size: 0.92rem; margin: 0.2rem 0 0; min-height: 1.2em; }
+.form-status.ok { color: #4a6b3a; }
+.form-status.err { color: #8c2f2f; }
+@media (max-width: 480px) { .form-row { grid-template-columns: 1fr; } }
 
 /* ----------------------------------------------------- footer -- */
 

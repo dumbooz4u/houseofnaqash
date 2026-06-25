@@ -223,7 +223,7 @@ def build_index():
       hands of master artisans.</p>
       <div class="hero-actions reveal in">
         <a class="btn btn-solid" href="#collections">Explore the collections</a>
-        <a class="btn btn-line" href="{WA_MSG}" target="_blank" rel="noopener">Speak with us</a>
+        <a class="btn btn-line" href="contact.html">Speak with us</a>
       </div>
     </div>
     <div class="hero-art reveal in">
@@ -358,8 +358,8 @@ def build_index():
       <p class="eyebrow reveal">More ways to connect</p>
       <h2 class="cta-title reveal">Reimagine your <em>space</em> with us.</h2>
       <div class="hero-actions center reveal">
-        <a class="btn btn-gold" href="{WA_MSG}" target="_blank" rel="noopener">WhatsApp us</a>
-        <a class="btn btn-line-light" href="{TEL}">{PHONE}</a>
+        <a class="btn btn-gold" href="contact.html">Enquire</a>
+        <a class="btn btn-line-light" href="{TEL}">Call {PHONE}</a>
       </div>
     </div>
   </section>
@@ -489,21 +489,33 @@ def build_contact():
       </div>
       <div class="contact-form-wrap reveal" style="transition-delay:150ms">
         <h3 class="form-title">Send an enquiry</h3>
-        <p class="form-sub">This opens WhatsApp with your message ready to send.</p>
-        <form id="waForm">
-          <label>Your name<input type="text" id="fName" autocomplete="name" required></label>
+        <p class="form-sub">We&rsquo;ll reply by email or phone, usually within a day.</p>
+        <form id="enquiryForm" novalidate>
+          <label>Your name<input type="text" id="fName" name="from_name" autocomplete="name" required></label>
+          <div class="form-row">
+            <label>Email<input type="email" id="fEmail" name="reply_to" autocomplete="email" placeholder="you@example.com"></label>
+            <label>Phone<input type="tel" id="fPhone" name="phone" autocomplete="tel" placeholder="+91&hellip;"></label>
+          </div>
+          <p class="form-hint">{BOTEH} Add at least one &mdash; email or phone &mdash; so we can reach you.</p>
           <label>I&rsquo;m interested in
-            <select id="fTopic" data-topics>
+            <select id="fTopic" name="topic" data-topics>
               <option>A bespoke commission</option><option>Something else</option>
             </select>
           </label>
-          <label>Message<textarea id="fMsg" rows="5" placeholder="Tell us about your space, palette, or the piece you have in mind&hellip;"></textarea></label>
-          <button class="btn btn-solid" type="submit">Send via WhatsApp</button>
+          <label>Message<textarea id="fMsg" name="message" rows="5" placeholder="Tell us about your space, palette, or the piece you have in mind&hellip;"></textarea></label>
+          <input type="text" id="fCompany" name="company" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+          <div class="form-actions">
+            <button class="btn btn-solid" type="submit" id="sendEmail">Send enquiry</button>
+            <button class="btn btn-line" type="button" id="sendWa">Send via WhatsApp</button>
+          </div>
+          <p class="form-status" id="formStatus" role="status" aria-live="polite"></p>
         </form>
       </div>
     </div>
   </section>
-</main>''' + FOOTER
+</main>
+<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+<script>window.HON_EMAILJS={{publicKey:"fL3GUK2hq0_qEehx_",service:"service_26s186g",template:"template_4qcryhf"}};</script>''' + FOOTER
 
 
 def build_collection():
