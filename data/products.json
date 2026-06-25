@@ -38,6 +38,13 @@
    "grid": "tall",
    "meta": "Throws & textiles",
    "subs": []
+  },
+  {
+   "slug": "curtains",
+   "label": "Curtains",
+   "grid": "tall",
+   "meta": "Hand-embroidered crewel curtain",
+   "subs": []
   }
  ],
  "items": [
@@ -1548,6 +1555,105 @@
    "desc": "A handmade crewel fabric throw presentation featuring coordinated neutral tones and artisanal embroidery.",
    "images": [
     "neutral-crewel-fabric-swatch-set.jpg"
+   ]
+  },
+  {
+   "id": "curtains-ivory-spring-vine",
+   "collection": "curtains",
+   "cat": "",
+   "title": "Ivory Spring Vine",
+   "meta": "Crewel curtain · Multicolour on ivory",
+   "desc": "A handmade crewel curtain trailing fine multicoloured blossoms and vines across a soft ivory ground. Light and airy, it filters daylight while adding a quietly opulent, hand-stitched detail to any room.",
+   "images": [
+    "ivory-spring-vine-crewel-curtain.jpg"
+   ]
+  },
+  {
+   "id": "curtains-golden-jacobean",
+   "collection": "curtains",
+   "cat": "",
+   "title": "Golden Jacobean",
+   "meta": "Crewel curtain · Rust on gold",
+   "desc": "A handmade crewel curtain worked with bold Jacobean florals in rust and crimson over a warm golden ground. Richly decorative, it brings depth and warmth to living rooms and formal spaces.",
+   "images": [
+    "golden-jacobean-crewel-curtain.jpg"
+   ]
+  },
+  {
+   "id": "curtains-sage-and-lilac-bloom",
+   "collection": "curtains",
+   "cat": "",
+   "title": "Sage & Lilac Bloom",
+   "meta": "Crewel curtain · Sage & lilac",
+   "desc": "A handmade crewel curtain with sage-green foliage and soft lilac blooms scrolling over a natural beige ground. Calm and contemporary, it suits bedrooms and light-filled interiors.",
+   "images": [
+    "sage-lilac-bloom-crewel-curtain.jpg"
+   ]
+  },
+  {
+   "id": "curtains-ivory-oak-leaf",
+   "collection": "curtains",
+   "cat": "",
+   "title": "Ivory Oak Leaf",
+   "meta": "Crewel curtain · Tonal ivory",
+   "desc": "A handmade crewel curtain embroidered tone-on-tone, ivory thread on ivory cloth, in a flowing oak-leaf and vine pattern. Understated and elegant, it lends texture without colour for a serene, modern look.",
+   "images": [
+    "ivory-oak-leaf-crewel-curtain.jpg"
+   ]
+  },
+  {
+   "id": "curtains-cornflower-meadow",
+   "collection": "curtains",
+   "cat": "",
+   "title": "Cornflower Meadow",
+   "meta": "Crewel curtain · Cornflower blue",
+   "desc": "A handmade crewel curtain scattered with cornflower-blue blooms and meadow flowers across a natural ground. Fresh and gently traditional, it brightens kitchens, studies and garden rooms.",
+   "images": [
+    "cornflower-meadow-crewel-curtain.jpg"
+   ]
+  },
+  {
+   "id": "curtains-crimson-jacobean",
+   "collection": "curtains",
+   "cat": "",
+   "title": "Crimson Jacobean",
+   "meta": "Crewel curtain · Crimson on ivory",
+   "desc": "A handmade crewel curtain densely embroidered with crimson and olive florals on an ivory ground. A statement of classic Kashmiri craftsmanship, it anchors a room with colour and intricate detail.",
+   "images": [
+    "crimson-jacobean-crewel-curtain.jpg"
+   ]
+  },
+  {
+   "id": "curtains-charcoal-vine",
+   "collection": "curtains",
+   "cat": "",
+   "title": "Charcoal Vine",
+   "meta": "Crewel curtain · Charcoal on white",
+   "desc": "A handmade crewel curtain in graphic charcoal florals on a crisp white ground. Monochrome and modern, it pairs effortlessly with contemporary interiors while keeping the warmth of hand embroidery.",
+   "images": [
+    "charcoal-vine-crewel-curtain.jpg"
+   ]
+  },
+  {
+   "id": "curtains-olive-and-walnut-vine",
+   "collection": "curtains",
+   "cat": "",
+   "title": "Olive & Walnut Vine",
+   "meta": "Crewel curtain · Olive & walnut",
+   "desc": "A handmade crewel curtain with walnut-brown vines and olive-gold blossoms winding across an ivory ground. Earthy and refined, it complements natural woods and neutral palettes.",
+   "images": [
+    "olive-walnut-vine-crewel-curtain.jpg"
+   ]
+  },
+  {
+   "id": "curtains-ivory-scroll-vine",
+   "collection": "curtains",
+   "cat": "",
+   "title": "Ivory Scroll Vine",
+   "meta": "Crewel curtain · Green scroll",
+   "desc": "A handmade crewel curtain with a fine green scrolling vine and tiny multicoloured flowers over an ivory ground. Delicate and versatile, it brings a light, botanical touch to any window.",
+   "images": [
+    "ivory-scroll-vine-crewel-curtain.jpg"
    ]
   }
  ]
