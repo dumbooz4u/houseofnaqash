@@ -123,12 +123,17 @@
       });
       var grid = document.querySelector(".collection-grid");
       if (!grid) return;
-      cat.collections.forEach(function (c, i) {
-        if (BUILTIN_PAGES.indexOf(c.slug) >= 0) return;
+      /* only collections that have products and aren't one of the 4 built-ins */
+      var extras = cat.collections.filter(function (c) {
+        return BUILTIN_PAGES.indexOf(c.slug) < 0 && itemsFor(cat, c.slug).length;
+      });
+      extras.forEach(function (c, i) {
         var items = itemsFor(cat, c.slug);
-        if (!items.length) return;
+        /* keep each row summing to 12 cols; a lone trailing card spans full width */
+        var span = (i === extras.length - 1 && extras.length % 2 === 1)
+          ? "span-12" : (i % 2 === 0 ? "span-7" : "span-5");
         var a = document.createElement("a");
-        a.className = "c-card span-5 reveal";
+        a.className = "c-card " + span + " reveal";
         a.href = pageFor(c.slug);
         var img = document.createElement("img");
         img.src = "images/" + items[0].images[0];
