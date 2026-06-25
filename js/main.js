@@ -2,12 +2,13 @@
 (function () {
   "use strict";
 
-  var BUILTIN_PAGES = ["cushions", "fabrics", "rugs", "throws"];
+  var BUILTIN_PAGES = ["cushions", "fabrics", "rugs", "curtains", "throws"];
   var DEFAULT_COLLECTIONS = [
     { slug: "cushions", label: "Cushions", grid: "square", subs: [
       { slug: "silk", label: "Silk" }, { slug: "wool", label: "Woollen" }] },
     { slug: "fabrics", label: "Fabrics", grid: "tall", subs: [] },
     { slug: "rugs", label: "Rugs", grid: "rug", subs: [] },
+    { slug: "curtains", label: "Curtains", grid: "tall", subs: [] },
     { slug: "throws", label: "Throws", grid: "tall", subs: [] }
   ];
 

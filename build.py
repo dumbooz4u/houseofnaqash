@@ -48,7 +48,7 @@ BOTEH = '''<span class="boteh" aria-hidden="true"><svg viewBox="0 0 24 24" fill=
 
 NAV = [("index.html", "Home"), ("cushions.html", "Cushions"),
        ("fabrics.html", "Fabrics"), ("rugs.html", "Rugs"),
-       ("throws.html", "Throws")]
+       ("curtains.html", "Curtains"), ("throws.html", "Throws")]
 
 
 def head(title, desc, page, og_image="images/tree-of-life-handmade-chain-stitch-crewel-rug.jpg"):
@@ -111,6 +111,7 @@ FOOTER = f'''
       <a href="cushions.html">Cushions</a>
       <a href="fabrics.html">Fabrics</a>
       <a href="rugs.html">Rugs</a>
+      <a href="curtains.html">Curtains</a>
       <a href="throws.html">Throws</a>
     </nav>
     <div class="footer-col">
@@ -208,7 +209,7 @@ def product_grid(collection, klass):
 # ------------------------------------------------------------------- pages --
 
 def build_index():
-    n = {c: len(coll_items(c)) for c in ("cushions", "fabrics", "rugs", "throws")}
+    n = {c: len(coll_items(c)) for c in ("cushions", "fabrics", "rugs", "curtains", "throws")}
     return head(
         "House of Naqash | Handmade Interior Luxury from Kashmir",
         "Hand-embroidered cushions, crewel fabrics, chain stitch rugs and throws from the Vale of Kashmir. Three generations of craftsmanship, over 70 years of excellence.",
@@ -286,6 +287,10 @@ def build_index():
         <a class="c-card span-7 reveal" href="throws.html" style="transition-delay:120ms">
           <img src="images/neutral-crewel-fabric-swatch-set.jpg" alt="Crewel throws and textiles" loading="lazy">
           <div class="c-overlay"><p class="c-count">Private portfolio</p><h3>Throws</h3><span class="c-link">Explore <i>&rarr;</i></span></div>
+        </a>
+        <a class="c-card span-12 reveal" href="curtains.html">
+          <img src="images/golden-jacobean-crewel-curtain.jpg" alt="Crewel hand-embroidered curtains" loading="lazy">
+          <div class="c-overlay"><p class="c-count" data-collection-count="curtains">{n['curtains']} designs</p><h3>Curtains</h3><span class="c-link">Explore <i>&rarr;</i></span></div>
         </a>
       </div>
     </div>
@@ -455,6 +460,23 @@ def build_throws():
 </main>''' + FOOTER
 
 
+def build_curtains():
+    items = coll_items("curtains")
+    return head(
+        "Curtains | House of Naqash",
+        f"{len(items)} crewel hand-embroidered curtains from Kashmir — wool-thread florals and vines worked over cotton, made to filter light and dress a room.",
+        "curtains") + header("curtains.html") + collection_hero(
+        "The Collections", "Curtains",
+        "Crewel hand-embroidered curtains — wool thread worked freehand over cotton, from airy ivory grounds to richly coloured Jacobean florals.",
+        f"{len(items)} designs") + f'''
+  <section class="section grid-section">
+    <div class="wrap">
+{product_grid("curtains", "tall")}
+    </div>
+  </section>
+</main>''' + FOOTER
+
+
 def build_contact():
     return head(
         "Contact | House of Naqash",
@@ -541,6 +563,7 @@ PAGES = {
     "fabrics.html": build_fabrics,
     "rugs.html": build_rugs,
     "throws.html": build_throws,
+    "curtains.html": build_curtains,
     "contact.html": build_contact,
     "collection.html": build_collection,
 }
