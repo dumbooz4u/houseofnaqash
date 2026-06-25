@@ -56,7 +56,7 @@
    "meta": "Silk · Art series",
    "desc": "A handmade cushion cover with a bold portrait-inspired composition and expressive abstract detailing. Its art-led design adds strong personality and a gallery-like accent to modern interiors.",
    "images": [
-    "abstract-face-handmade-art-cushion-cover.jpg"
+    "amber-cubist-handmade-art-cushion-cover.jpg"
    ]
   },
   {
@@ -122,7 +122,7 @@
    "meta": "Silk · Art series",
    "desc": "A handmade cushion cover featuring an expressive cat-inspired artwork with bold colour, stitched detail, and a playful decorative character. It is ideal for artistic, eclectic, and statement interiors.",
    "images": [
-    "cat-trio-handmade-art-cushion-cover.jpg"
+    "amethyst-cats-handmade-art-cushion-cover.jpg"
    ]
   },
   {
@@ -1756,17 +1756,6 @@
    ]
   },
   {
-   "id": "cushions-amethyst-cats",
-   "collection": "cushions",
-   "cat": "silk",
-   "title": "Amethyst Cats",
-   "meta": "Silk · Art series",
-   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its amethyst cats design brings colour, character and a gallery-like accent to modern interiors.",
-   "images": [
-    "amethyst-cats-handmade-art-cushion-cover.jpg"
-   ]
-  },
-  {
    "id": "cushions-garden-cat",
    "collection": "cushions",
    "cat": "silk",
@@ -1808,17 +1797,6 @@
    "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its teal cat design brings colour, character and a gallery-like accent to modern interiors.",
    "images": [
     "teal-cat-handmade-art-cushion-cover.jpg"
-   ]
-  },
-  {
-   "id": "cushions-amber-cubist",
-   "collection": "cushions",
-   "cat": "silk",
-   "title": "Amber Cubist",
-   "meta": "Silk · Modern series",
-   "desc": "A handmade silk-thread cushion cover, hand embroidered in the chain-stitch art tradition of Kashmir. Its amber cubist design brings colour, character and a gallery-like accent to modern interiors.",
-   "images": [
-    "amber-cubist-handmade-art-cushion-cover.jpg"
    ]
   },
   {
