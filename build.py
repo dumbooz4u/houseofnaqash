@@ -492,9 +492,8 @@ def build_contact():
         <form id="waForm">
           <label>Your name<input type="text" id="fName" autocomplete="name" required></label>
           <label>I&rsquo;m interested in
-            <select id="fTopic">
-              <option>Cushions</option><option>Fabrics</option><option>Rugs</option>
-              <option>Throws</option><option>A bespoke commission</option><option>Something else</option>
+            <select id="fTopic" data-topics>
+              <option>A bespoke commission</option><option>Something else</option>
             </select>
           </label>
           <label>Message<textarea id="fMsg" rows="5" placeholder="Tell us about your space, palette, or the piece you have in mind&hellip;"></textarea></label>

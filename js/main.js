@@ -507,6 +507,21 @@
     }
   }
 
+  /* Contact form: populate the topic dropdown from live collections */
+  var topicSelect = document.querySelector("#fTopic[data-topics]");
+  if (topicSelect) {
+    fetchCatalog().then(function (cat) {
+      cat.collections.slice().reverse().forEach(function (c) {
+        /* only list collections that actually have products */
+        if (!itemsFor(cat, c.slug).length) return;
+        var o = document.createElement("option");
+        o.textContent = c.label;
+        topicSelect.insertBefore(o, topicSelect.firstChild);
+      });
+      topicSelect.selectedIndex = 0;
+    }).catch(function () {});
+  }
+
   /* Contact form → WhatsApp */
   var form = document.getElementById("waForm");
   if (form) {
