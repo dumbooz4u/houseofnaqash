@@ -269,7 +269,7 @@ def build_index():
 
   <section class="section" id="collections">
     <div class="wrap">
-{section_head("The Collections", "Four crafts, one <em>lineage</em>.", "Every piece begins as a drawing — a naqashi — and passes through months of hand embroidery before it earns our name.")}
+{section_head("The Collections", "Five crafts, one <em>lineage</em>.", "Every piece begins as a drawing — a naqashi — and passes through months of hand embroidery before it earns our name.")}
       <div class="collection-grid">
         <a class="c-card span-7 reveal" href="cushions.html">
           <img src="images/festival-birds-handmade-modern-cushion-cover.jpg" alt="Hand-embroidered silk cushion covers" loading="lazy">
