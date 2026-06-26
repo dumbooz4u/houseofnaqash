@@ -152,7 +152,7 @@ FOOTER = f'''
       <div class="d-rule">{BOTEH}</div>
       <p class="d-desc" id="dDesc"></p>
       <p class="d-note">Handmade in Srinagar &middot; made to order in custom sizes and palettes.</p>
-      <a class="btn btn-solid" id="dEnquire" href="#" target="_blank" rel="noopener">Enquire about this piece</a>
+      <a class="btn btn-solid" id="dEnquire" href="contact.html">Enquire about this piece</a>
       <div class="d-nav">
         <button id="dPrev" type="button">&larr; Previous</button>
         <button id="dNext" type="button">Next &rarr;</button>

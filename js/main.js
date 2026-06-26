@@ -220,7 +220,7 @@
       var count = document.querySelector("[data-count]");
       if (count) count.textContent = gridItems.length + " designs";
       renderFilters(coll, gridItems);
-      initDetail(gridItems);
+      initDetail(gridItems, coll);
     }).catch(function (err) {
       grid.innerHTML = '<p class="grid-note">The collection could not be loaded. ' +
         'Please refresh, or <a href="contact.html">contact us</a> for the catalogue.</p>';
@@ -331,7 +331,8 @@
 
   /* ------------------------------------------------ item detail modal -- */
 
-  function initDetail(items) {
+  function initDetail(items, coll) {
+    var collLabel = (coll && coll.label) || "";
     var detail = document.getElementById("detail");
     var lb = document.getElementById("lightbox");
     if (!detail || !items.length) return;
@@ -389,10 +390,9 @@
       dMeta.textContent = it.meta;
       dTitle.textContent = it.title;
       dDesc.textContent = it.desc;
-      dEnquire.href = "https://wa.me/919419014030?text=" + encodeURIComponent(
-        'Hello House of Naqash — I’m interested in the "' + it.title +
-        '" (' + it.meta + "). Could you share details?"
-      );
+      dEnquire.href = "contact.html?topic=" + encodeURIComponent(collLabel) +
+        "&piece=" + encodeURIComponent(it.title) +
+        "&meta=" + encodeURIComponent(it.meta || "");
       dThumbs.innerHTML = "";
       dThumbs.style.display = it.images.length > 1 ? "" : "none";
       it.images.forEach(function (img, j) {
@@ -520,7 +520,28 @@
         topicSelect.insertBefore(o, topicSelect.firstChild);
       });
       topicSelect.selectedIndex = 0;
-    }).catch(function () {});
+      prefillFromPiece();
+    }).catch(function () { prefillFromPiece(); });
+
+    /* If we arrived from a piece's "Enquire" button, preselect its
+       collection as the topic and seed the message. */
+    function prefillFromPiece() {
+      var q = new URLSearchParams(location.search);
+      var piece = q.get("piece");
+      if (!piece) return;
+      var topic = q.get("topic"), meta = q.get("meta");
+      if (topic) {
+        Array.prototype.forEach.call(topicSelect.options, function (o, i) {
+          if (o.textContent === topic) topicSelect.selectedIndex = i;
+        });
+      }
+      var msgEl = document.getElementById("fMsg");
+      if (msgEl && !msgEl.value) {
+        msgEl.value = 'I’m interested in the "' + piece + '"' +
+          (meta ? " (" + meta + ")" : "") +
+          ". Could you tell me more about availability, sizes, and pricing?";
+      }
+    }
   }
 
   /* Contact form → email (primary, via EmailJS) + WhatsApp (secondary) */
